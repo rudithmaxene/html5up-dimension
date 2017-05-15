@@ -15,8 +15,6 @@ function picture1(){
     document.getElementById("lmao").setAttribute("src","images/bebby (3).jpg")
     document.getElementById("lmao").setAttribute("src","images/bebbie.jpg")
     document.getElementById("lmao").setAttribute("src","images/bebby (2).jpg")
-
-
 }
 }
 function picture2(){
@@ -24,9 +22,9 @@ var number = Math.random()
 if(number > 0.9){
     document.getElementById("sell").setAttribute("src","images/drumstick.JPG")
    document.getElementById("sell").setAttribute("src","images/drumline.JPG")
-   document.getElementById("sell").setAttribute("src","")
-   
-
+   document.getElementById("sell").setAttribute("src","drumline.JPG")
+   document.getElementById("sell").setAttribute("src","piano.JPG")
+   document.getElementById("sell").setAttribute("src","random(4).jpg")
 
 
 }}
